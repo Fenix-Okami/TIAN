@@ -1,17 +1,17 @@
 from __future__ import annotations
 
 import csv
-from typing import Dict, List
+import re
+from html import unescape
+from typing import Dict, List, Optional
 
 from hsk_csv_utils import (
     LEVELS,
     OUTPUT_DIR,
     WORDS_DIR,
-    numbered_pinyin_to_tone_marks,
     read_entries,
     write_csv,
 )
-
 
 ANKI_DIR = WORDS_DIR.parent / "Anki xiehanzi"
 
@@ -20,12 +20,35 @@ def unique_preserve_order(values: List[str]) -> List[str]:
     return list(dict.fromkeys(values))
 
 
-def is_name_pinyin(pinyin: str) -> bool:
-    return bool(pinyin) and pinyin[0].isalpha() and pinyin[0].isupper()
+def strip_tags(text: str) -> str:
+    return re.sub(r"<[^>]+>", " ", text)
 
 
-def load_anki_pinyin(levels: List[int]) -> Dict[str, List[str]]:
-    mapping: Dict[str, List[str]] = {}
+def parse_pinyin_syllables(html_text: str, fallback: str) -> List[str]:
+    match = re.search(r'<span class="pinYinWrapper">(.*?)</span>\s*<ul', html_text, re.S)
+    source = match.group(1) if match else fallback
+    cleaned = strip_tags(unescape(source))
+    return [part.lower() for part in cleaned.split() if part]
+
+
+def parse_meaning(html_text: str) -> str:
+    lis = re.findall(r"<li>(.*?)</li>", html_text, re.S)
+    cleaned = [" ".join(strip_tags(unescape(li)).split()) for li in lis if li]
+    cleaned = [c for c in cleaned if c]
+    return "; ".join(cleaned)
+
+
+def parse_simple_meaning(html_text: str) -> str:
+    lis = re.findall(r"<li>(.*?)</li>", html_text, re.S)
+    for li in lis:
+        cleaned = " ".join(strip_tags(unescape(li)).split())
+        if cleaned:
+            return cleaned
+    return ""
+
+
+def load_anki_data(levels: List[int]) -> Dict[str, Dict[str, object]]:
+    data: Dict[str, Dict[str, object]] = {}
     for level in levels:
         path = ANKI_DIR / f"HSK_Level_{level}.txt"
         if not path.exists():
@@ -33,14 +56,25 @@ def load_anki_pinyin(levels: List[int]) -> Dict[str, List[str]]:
         with path.open(encoding="utf-8") as handle:
             reader = csv.reader(handle, delimiter="\t")
             for row in reader:
-                if len(row) < 3:
+                if len(row) < 4:
                     continue
-                simp, trad, pinyin = row[0].strip(), row[1].strip(), row[2].strip()
-                if pinyin:
-                    mapping.setdefault(simp, []).append(pinyin)
-                    if trad:
-                        mapping.setdefault(trad, []).append(pinyin)
-    return mapping
+                simp = row[0].strip()
+                trad = row[1].strip() if len(row) > 1 else ""
+                base_pinyin = row[2].strip() if len(row) > 2 else ""
+                html_text = "\t".join(row[7:]) if len(row) > 7 else row[-1] if row else ""
+                pinyin_syllables = parse_pinyin_syllables(html_text, base_pinyin)
+                meaning = parse_meaning(html_text)
+                simple_meaning = parse_simple_meaning(html_text)
+                entry = {
+                    "pinyin": pinyin_syllables,
+                    "meaning": meaning,
+                    "simple_meaning": simple_meaning,
+                }
+                if simp:
+                    data[simp] = entry
+                if trad:
+                    data.setdefault(trad, entry)
+    return data
 
 
 def normalize_vocab_key(word: str) -> str:
@@ -51,19 +85,50 @@ def normalize_vocab_key(word: str) -> str:
     return word[:i] if i != len(word) else word
 
 
-def col_pinyin_from_map(word: str, pinyin_map: Dict[str, List[str]]) -> str:
+def col_pinyin_from_data(word: str, anki_data: Dict[str, Dict[str, object]]) -> str:
     key = normalize_vocab_key(word)
-    raw = pinyin_map.get(key) or pinyin_map.get(word) or []
-    if not raw:
+    entry: Optional[Dict[str, object]] = anki_data.get(key) or anki_data.get(word)
+    if not entry:
         return ""
-    lowered = [p.lower() for p in raw]
-    converted = [numbered_pinyin_to_tone_marks(p) for p in lowered]
-    unique = unique_preserve_order([p for p in converted if p])
-    return ";".join(unique)
+    syllables = entry.get("pinyin", [])
+    if not isinstance(syllables, list):
+        return ""
+    unique = unique_preserve_order([s for s in syllables if s])
+    return "".join(unique)
+
+
+def col_pinyin_spaced(word: str, anki_data: Dict[str, Dict[str, object]]) -> str:
+    key = normalize_vocab_key(word)
+    entry: Optional[Dict[str, object]] = anki_data.get(key) or anki_data.get(word)
+    if not entry:
+        return ""
+    syllables = entry.get("pinyin", [])
+    if not isinstance(syllables, list):
+        return ""
+    unique = unique_preserve_order([s for s in syllables if s])
+    return " ".join(unique)
+
+
+def col_meaning_from_data(word: str, anki_data: Dict[str, Dict[str, object]]) -> str:
+    key = normalize_vocab_key(word)
+    entry: Optional[Dict[str, object]] = anki_data.get(key) or anki_data.get(word)
+    if not entry:
+        return ""
+    meaning = entry.get("meaning", "")
+    return meaning if isinstance(meaning, str) else ""
+
+
+def col_simple_meaning_from_data(word: str, anki_data: Dict[str, Dict[str, object]]) -> str:
+    key = normalize_vocab_key(word)
+    entry: Optional[Dict[str, object]] = anki_data.get(key) or anki_data.get(word)
+    if not entry:
+        return ""
+    meaning = entry.get("simple_meaning", "")
+    return meaning if isinstance(meaning, str) else ""
 
 
 def build_vocabulary_csv() -> None:
-    pinyin_map = load_anki_pinyin(LEVELS)
+    anki_data = load_anki_data(LEVELS)
 
     rows: List[Dict[str, object]] = []
     for level in LEVELS:
@@ -75,8 +140,10 @@ def build_vocabulary_csv() -> None:
                     "vocab": vocab,
                     "tian_level": level,
                     "hsk_level": level,
-                    "pinyin": col_pinyin_from_map(vocab, pinyin_map),
-                    "meaning": "",
+                    "pinyin": col_pinyin_from_data(vocab, anki_data),
+                    "pinyin_spaced": col_pinyin_spaced(vocab, anki_data),
+                    "meaning": col_meaning_from_data(vocab, anki_data),
+                    "simple_meaning": col_simple_meaning_from_data(vocab, anki_data),
                     "meaning_mnemonic": "",
                     "reading_mnemonic": "",
                     "components": "",
@@ -90,7 +157,9 @@ def build_vocabulary_csv() -> None:
             "tian_level",
             "hsk_level",
             "pinyin",
+            "pinyin_spaced",
             "meaning",
+            "simple_meaning",
             "meaning_mnemonic",
             "reading_mnemonic",
             "components",
