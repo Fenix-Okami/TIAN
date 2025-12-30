@@ -1,656 +1,656 @@
-hanzi,tian_level,hsk_level,pinyin,simple_meaning,meaning,meaning_mnemonic,reading_mnemonic,components,in_names
-爱,1,1,ài,,,,,爫 冖 𠂇 又,false
-二,1,1,èr,,,,,二,false
-姐,1,1,jiě,,,,,女 月 一,false
-年,1,1,nián,,,,,丿 一 十 ㇗ 丨,true
-八,1,1,bā,,,,,八,false
-饭,1,1,fàn,,,,,饣 ⺁ 又,false
-今,1,1,jīn,,,,,人 丶 ㇇,false
-您,1,1,nín,,,,,亻 ⺈ 小 心,false
-爸,1,1,bà,,,,,父 丨 丨 乚,false
-房,1,1,fáng,,,,,户 方,true
-九,1,1,jiǔ,,,,,丿 ㇈,false
-牛,1,1,niú,,,,,牛,true
-吧,1,1,bā;ba;biā,,,,,口 丨 丨 乚,false
-飞,1,1,fēi,,,,,飞,false
-觉,1,1,jiào;jué,,,,,⺍ 冖 见,false
-女,1,1,nǚ;rǔ,,,,,女,false
-白,1,1,bái,,,,,白,true
-非,1,1,fēi,,,,,非,true
-开,1,1,kāi,,,,,一 廾,false
-朋,1,1,péng,,,,,朋,false
-百,1,1,bǎi,,,,,一 白,true
-分,1,1,fēn;fèn,,,,,八 刀,false
-看,1,1,kān;kàn,,,,,龵 目,false
-漂,1,1,piāo;piǎo;piào,,,,,氵 覀 示,false
-班,1,1,bān,,,,,玨 丿 丶,true
-服,1,1,fú;fù,,,,,月 卩 又,false
-可,1,1,kě;kè,,,,,一 亅 口,false
-苹,1,1,píng,,,,,艹 干 丷,false
-半,1,1,bàn,,,,,二 丨 丷,false
-高,1,1,gāo,,,,,高,true
-客,1,1,kè,,,,,宀 夂 口,false
-七,1,1,qī,,,,,乚 一,false
-包,1,1,bāo,,,,,勹 巳,true
-哥,1,1,gē,,,,,哥,false
-课,1,1,kè,,,,,讠 田 木,false
-期,1,1,qī,,,,,甘 一 八 月,false
-杯,1,1,bēi,,,,,木 一 丿 卜,false
-歌,1,1,gē,,,,,哥 欠,false
-口,1,1,kǒu,,,,,口,false
-起,1,1,qǐ,,,,,走 己,false
-本,1,1,běn,,,,,木 一,false
-个,1,1,gè,,,,,人 丨,false
-块,1,1,kuài,,,,,土 丨 人,false
-气,1,1,qì,,,,,气,false
-边,1,1,biān;bian,,,,,辶 力,false
-给,1,1,gěi;jǐ,,,,,纟 人 一 口,false
-来,1,1,lái,,,,,木 一 丷,false
-千,1,1,qiān,,,,,㇒ 十,false
-便,1,1,biàn;pián,,,,,亻 一 日 丨 乂,false
-工,1,1,gōng,,,,,工,false
-老,1,1,lǎo,,,,,老,false
-前,1,1,qián,,,,,丷 一 月 刂,false
-病,1,1,bìng,,,,,疒 一 人 冂,false
-公,1,1,gōng,,,,,八 厶,false
-了,1,1,le;liǎo;liào,,,,,㇇ 亅,false
-钱,1,1,qián,,,,,钅 戋,true
-不,1,1,bù,,,,,一 丿 卜,false
-狗,1,1,gǒu,,,,,犭 勹 口,false
-冷,1,1,lěng,,,,,冫 人 丶 龴,true
-请,1,1,qǐng,,,,,讠 青,false
-菜,1,1,cài,,,,,艹 爫 木,false
-关,1,1,guān,,,,,丷 一 大,true
-里,1,1,lǐ,,,,,里,true
-去,1,1,qù,,,,,土 厶,false
-茶,1,1,chá,,,,,艹 人 十 小,false
-贵,1,1,guì,,,,,口 丨 一 贝,false
-两,1,1,liǎng,,,,,一 从 冂,false
-热,1,1,rè,,,,,扌 丿 ㇈ 丶 灬,false
-常,1,1,cháng,,,,,⺌ 冖 口 巾,true
-国,1,1,guó,,,,,囗 玉,true
-亮,1,1,liàng,,,,,亠 口 冖 几,false
-人,1,1,rén,,,,,人,false
-唱,1,1,chàng,,,,,口 昌,false
-果,1,1,guǒ,,,,,田 木,false
-零,1,1,líng,,,,,雨 人 丶 龴,false
-认,1,1,rèn,,,,,讠 人,false
-超,1,1,chāo,,,,,走 刀 口,false
-还,1,1,hái;huán,,,,,辶 一 丿 卜,true
-六,1,1,liù,,,,,亠 八,false
-日,1,1,rì,,,,,日,true
-车,1,1,chē,,,,,车,true
-孩,1,1,hái,,,,,子 亠 丨 ㇙ 人,false
-妈,1,1,mā,,,,,女 马,false
-三,1,1,sān,,,,,一 二,true
-吃,1,1,chī,,,,,口 丿 一 ㇠,false
-汉,1,1,hàn,,,,,氵 又,true
-吗,1,1,mǎ;ma,,,,,口 马,false
-商,1,1,shāng,,,,,亠 丷 冂 八 口,true
-出,1,1,chū,,,,,出,false
-好,1,1,hǎo;hào,,,,,女 子,false
-买,1,1,mǎi,,,,,㇖ 大 ⺀,false
-上,1,1,shǎng;shàng,,,,,⺊ 一,false
-穿,1,1,chuān,,,,,穴 牙,false
-号,1,1,háo;hào,,,,,口 一 ㇉,false
-卖,1,1,mài,,,,,十 ㇖ 大 ⺀,false
-少,1,1,shǎo;shào,,,,,小 丿,false
-床,1,1,chuáng,,,,,广 木,false
-喝,1,1,hē;hè,,,,,口 曰 勹 人 ㇗,false
-忙,1,1,máng,,,,,忄 匸 丶,false
-谁,1,1,shéi,,,,,讠 隹,false
-打,1,1,dá;dǎ,,,,,扌 一 亅,false
-和,1,1,hé;hè;hú;huó;huò,,,,,禾 口,true
-猫,1,1,māo,,,,,犭 艹 田,false
-什,1,1,shén;shí,,,,,亻 十,false
-大,1,1,dà;dài,,,,,大,false
-很,1,1,hěn,,,,,彳 艮,false
-么,1,1,má;ma;me;mó,,,,,丿 厶,false
-生,1,1,shēng,,,,,生,false
-蛋,1,1,dàn,,,,,疋 虫,true
-后,1,1,hòu,,,,,⺁ 一 口,true
-没,1,1,méi;mò,,,,,氵 殳,false
-师,1,1,shī,,,,,一 巾,true
-到,1,1,dào,,,,,至 刂,false
-候,1,1,hòu,,,,,亻 丨 矢,false
-妹,1,1,mèi,,,,,女 木 一,false
-十,1,1,shí,,,,,十,false
-道,1,1,dào,,,,,辶 首,false
-话,1,1,huà,,,,,讠 舌,false
-们,1,1,men,,,,,亻 门,false
-时,1,1,shí,,,,,日 寸,true
-得,1,1,dé;de;děi,,,,,彳 日 一 寸,false
-欢,1,1,huān,,,,,又 欠,false
-米,1,1,mǐ,,,,,米,true
-识,1,1,shí;zhì,,,,,讠 口 八,false
-的,1,1,de;dī;dí;dì,,,,,白 勹 丶,false
-回,1,1,huí,,,,,回,false
-面,1,1,miàn,,,,,面,false
-士,1,1,shì,,,,,士,true
-弟,1,1,dì;tì,,,,,丷 弓 丨 ㇒,false
-会,1,1,huì;kuài,,,,,人 二 厶,false
-名,1,1,míng,,,,,夕 口,false
-市,1,1,shì,,,,,亠 巾,false
-第,1,1,dì,,,,,⺮ 弓 丨 ㇒,false
-火,1,1,huǒ,,,,,火,true
-明,1,1,míng,,,,,日 月,true
-事,1,1,shì,,,,,十 口 丨 ⺺ 亅,false
-点,1,1,diǎn,,,,,⺊ 口 灬,false
-机,1,1,jī,,,,,木 几,true
-哪,1,1,nǎ;na;něi,,,,,口 ㇆ 二 丨 阝,false
-视,1,1,shì,,,,,礻 见,false
-电,1,1,diàn,,,,,日 丨 乚,false
-鸡,1,1,jī,,,,,又 鸟,false
-那,1,1,nǎ;nà,,,,,㇆ 二 丨 阝,true
-是,1,1,shì,,,,,日 一 龰,false
-东,1,1,dōng,,,,,乚 一 小,true
-几,1,1,jī;jǐ,,,,,几,false
-奶,1,1,nǎi,,,,,女 ㇎ 丿,false
-手,1,1,shǒu,,,,,手,false
-都,1,1,dōu;dū,,,,,耂 日 阝,true
-家,1,1,jiā,,,,,宀 豕,false
-男,1,1,nán,,,,,田 力,false
-书,1,1,shū,,,,,丨 丶,true
-读,1,1,dòu;dú,,,,,讠 十 ㇖ 大 ⺀,false
-间,1,1,jiān;jiàn,,,,,门 日,false
-脑,1,1,nǎo,,,,,月 亠 凵 乂,false
-水,1,1,shuǐ,,,,,水,true
-对,1,1,duì,,,,,又 寸,false
-见,1,1,jiàn;xiàn,,,,,见,false
-呢,1,1,ne;ní,,,,,口 尸 匕,false
-睡,1,1,shuì,,,,,目 ㇒ 十 士 艹,false
-多,1,1,duō,,,,,多,false
-件,1,1,jiàn,,,,,亻 牛,false
-能,1,1,néng,,,,,厶 月,true
-说,1,1,shuì;shuō,,,,,讠 丷 口 儿,false
-儿,1,1,rén;ér;r,,,,,儿,false
-叫,1,1,jiào,,,,,口 丨 ㇙,false
-你,1,1,nǐ,,,,,亻 ⺈ 小,false
-司,1,1,sī,,,,,㇆ 一 口,true
-四,1,1,sì,,,,,囗 儿,false
-西,1,1,xī,,,,,西,true
-样,1,1,yàng,,,,,木 羊,false
-怎,1,1,zěn,,,,,丿 一 丨 二 心,false
-岁,1,1,suì,,,,,山 夕,false
-息,1,1,xī,,,,,自 心,false
-要,1,1,yāo;yào,,,,,覀 女,false
-找,1,1,zhǎo,,,,,扌 戈,false
-他,1,1,tā,,,,,亻 乚 ㇆ 丨,false
-习,1,1,xí,,,,,㇆ 亠,true
-也,1,1,yě,,,,,乚 ㇆ 丨,true
-这,1,1,zhè,,,,,辶 文,false
-它,1,1,tā,,,,,宀 匕,false
-喜,1,1,xǐ,,,,,士 口 丷 一 口,false
-一,1,1,yī,,,,,一,false
-真,1,1,zhēn,,,,,十 目 一 八,false
-她,1,1,tā,,,,,女 乚 ㇆ 丨,false
-系,1,1,xì;jì,,,,,㇒ 糸,false
-衣,1,1,yī;yì,,,,,衣,false
-正,1,1,zhēng;zhèng,,,,,一 止,false
-太,1,1,tài,,,,,大 丶,false
-下,1,1,xià,,,,,一 卜,false
-医,1,1,yī,,,,,匚 矢,false
-知,1,1,zhī,,,,,矢 口,false
-题,1,1,tí,,,,,日 一 龰 页,true
-先,1,1,xiān,,,,,⺧ 儿,false
-宜,1,1,yí,,,,,宀 月 一,true
-只,1,1,zhǐ;zhī,,,,,口 八,false
-天,1,1,tiān,,,,,一 大,false
-现,1,1,xiàn,,,,,王 见,false
-以,1,1,yǐ,,,,,乚 丶 人,true
-中,1,1,zhōng;zhòng,,,,,口 丨,true
-条,1,1,tiáo,,,,,夂 十 小,false
-想,1,1,xiǎng,,,,,木 目 心,false
-椅,1,1,yǐ,,,,,木 大 一 亅 口,false
-钟,1,1,zhōng,,,,,钅 口 丨,true
-听,1,1,tīng;tìng,,,,,口 斤,false
-小,1,1,xiǎo,,,,,小,false
-影,1,1,yǐng,,,,,日 亠 口 小 彡,false
-住,1,1,zhù,,,,,亻 王 丶,false
-同,1,1,tóng;tòng,,,,,冂 一 口,false
-校,1,1,jiào;xiào,,,,,木 亠 八 乂,false
-友,1,1,yǒu,,,,,𠂇 又,false
-桌,1,1,zhuō,,,,,⺊ 日 木,false
-外,1,1,wài,,,,,夕 卜,false
-些,1,1,xiē,,,,,止 匕 二,false
-有,1,1,yǒu,,,,,𠂇 月,false
-子,1,1,zǐ;zi,,,,,子,false
-玩,1,1,wán,,,,,王 二 儿,false
-写,1,1,xiě,,,,,冖 一,false
-雨,1,1,yǔ;yù,,,,,雨,false
-字,1,1,zì,,,,,宀 子,false
-晚,1,1,wǎn,,,,,日 ⺈ 口 丨 乚,false
-谢,1,1,xiè,,,,,讠 身 寸,true
-语,1,1,yǔ;yù,,,,,讠 一 力 一 口,false
-租,1,1,zū,,,,,禾 月 一,false
-喂,1,1,wéi;wèi,,,,,口 田 一 乚,false
-新,1,1,xīn,,,,,立 十 小 斤,true
-元,1,1,yuán,,,,,二 儿,true
-昨,1,1,zuó,,,,,日 丿 一 丨 二,false
-文,1,1,wén,,,,,文,true
-星,1,1,xīng,,,,,日 生,false
-院,1,1,yuàn,,,,,阝 宀 二 儿,false
-作,1,1,zuō;zuò,,,,,亻 丿 一 丨 二,false
-问,1,1,wèn,,,,,门 口,false
-兴,1,1,xīng;xìng,,,,,⺍ 一 八,true
-月,1,1,yuè,,,,,月,false
-坐,1,1,zuò,,,,,土 从,true
-我,1,1,wǒ,,,,,手 戈,false
-休,1,1,xiū,,,,,亻 木,true
-再,1,1,zài,,,,,一 冂 土,false
-做,1,1,zuò,,,,,亻 十 口 ⺙,false
-五,1,1,wǔ,,,,,一 力 一,false
-学,1,1,xué,,,,,⺍ 冖 子,false
-在,1,1,zài,,,,,𠂇 亻 土,false
-午,1,1,wǔ,,,,,干 ㇒,false
-雪,1,1,xuě,,,,,雨 彐,true
-早,1,1,zǎo,,,,,日 十,false
-啊,2,2,ā;á;ǎ;à;a,,,,,口 阝 一 亅 口,false
-交,2,2,jiāo,,,,,亠 八 乂,false
-晴,2,2,qíng,,,,,日 青,false
-希,2,2,xī,,,,,乂 𠂇 巾,false
-帮,2,2,bāng,,,,,一 二 丨 阝 巾,false
-教,2,2,jiāo;jiào,,,,,耂 子 ⺙,true
-球,2,2,qiú,,,,,王 𠂇 丶 氺,false
-洗,2,2,xǐ,,,,,氵 ⺧ 儿,false
-备,2,2,bèi,,,,,夂 田,false
-介,2,2,jiè,,,,,人,false
-然,2,2,rán,,,,,月 犬 灬,false
-笑,2,2,xiào,,,,,⺮ ㇒ 大,false
-比,2,2,bī;bǐ,,,,,比,true
-进,2,2,jìn,,,,,辶 二,false
-让,2,2,ràng,,,,,讠 ⺊ 一,false
-姓,2,2,xìng,,,,,女 生,false
-笔,2,2,bǐ,,,,,⺮ 毛,false
-近,2,2,jìn,,,,,辶 斤,false
-肉,2,2,ròu,,,,,肉,false
-颜,2,2,yán,,,,,立 厂 彡 页,true
-表,2,2,biǎo,,,,,龶 ㇒ ㇗,false
-经,2,2,jīng,,,,,纟 龴 工,true
-色,2,2,sè;shǎi,,,,,色,false
-眼,2,2,yǎn,,,,,目 艮,false
-别,2,2,bié;biè,,,,,口 力 刂,true
-睛,2,2,jīng,,,,,目 青,false
-绍,2,2,shào,,,,,纟 刀 口,true
-药,2,2,yào,,,,,艹 纟 勹 丶,false
-步,2,2,bù,,,,,止 小 丿,true
-酒,2,2,jiǔ,,,,,氵 酉,false
-身,2,2,shēn,,,,,身,false
-爷,2,2,yé,,,,,父 ㇆ 丨,false
-场,2,2,cháng;chǎng,,,,,土 ㇎,false
-就,2,2,jiù,,,,,亠 口 小 尢 丶,false
-始,2,2,shǐ,,,,,女 厶 口,false
-已,2,2,yǐ,,,,,已,false
-词,2,2,cí,,,,,讠 ㇆ 一 口,false
-咖,2,2,kā,,,,,口 力 口,false
-试,2,2,shì,,,,,讠 弋 工,false
-意,2,2,yì,,,,,音 心,true
-次,2,2,cì,,,,,冫 欠,false
-考,2,2,kǎo,,,,,耂 一 ㇉,false
-室,2,2,shì,,,,,宀 至,true
-因,2,2,yīn,,,,,囗 大,false
-从,2,2,cóng,,,,,从,true
-裤,2,2,kù,,,,,衤 广 车,false
-舒,2,2,shū,,,,,人 干 口 龴 ㇖ 亅,true
-阴,2,2,yīn,,,,,阝 月,true
-错,2,2,cuò,,,,,钅 艹 一 日,true
-快,2,2,kuài,,,,,忄 丨 人,false
-思,2,2,sī,,,,,田 心,false
-泳,2,2,yǒng,,,,,氵 ㇆ ㇇ 丶,false
-但,2,2,dàn,,,,,亻 日 一,false
-篮,2,2,lán,,,,,⺮ 丨 丨 丿 一 丶 皿,false
-送,2,2,sòng,,,,,辶 丷 一 大,false
-游,2,2,yóu,,,,,氵 方 丿 一 子,true
-地,2,2,de;dì,,,,,土 乚 ㇆ 丨,false
-乐,2,2,lè;yuè,,,,,㇒ ㇗ 小,true
-诉,2,2,sù,,,,,讠 斤 丶,false
-右,2,2,yòu,,,,,𠂇 口,false
-等,2,2,děng,,,,,⺮ 土 寸,false
-累,2,2,lěi;lèi;léi,,,,,田 糸,true
-虽,2,2,suī,,,,,口 虫,false
-鱼,2,2,yú,,,,,鱼,true
-店,2,2,diàn,,,,,广 ⺊ 口,false
-离,2,2,lí,,,,,亠 凵 乂 禸,true
-所,2,2,suǒ,,,,,戶 斤,false
-远,2,2,yuǎn;yuàn,,,,,辶 二 儿,false
-懂,2,2,dǒng,,,,,忄 艹 ㇒ 十 里,false
-留,2,2,liú,,,,,卯 田,false
-疼,2,2,téng,,,,,疒 夂 ⺀,false
-运,2,2,yùn,,,,,辶 二 厶,false
-动,2,2,dòng,,,,,二 厶 力,false
-楼,2,2,lóu,,,,,木 米 女,true
-踢,2,2,tī,,,,,⻊ 日 勹,false
-站,2,2,zhàn,,,,,立 ⺊ 口,false
-啡,2,2,fēi,,,,,口 非,false
-路,2,2,lù,,,,,⻊ 夂 口,true
-体,2,2,tǐ,,,,,亻 木 一,false
-长,2,2,cháng;zhǎng,,,,,长,false
-夫,2,2,fū;fú,,,,,人 二,false
-旅,2,2,lǚ,,,,,方 丿 一 氏,false
-跳,2,2,tiào,,,,,⻊ 儿 冫,false
-丈,2,2,zhàng,,,,,十 乂,false
-告,2,2,gào,,,,,⺧ 口,false
-绿,2,2,lǜ,,,,,纟 彐 氺,false
-铁,2,2,tiě,,,,,钅 人 二 ㇒,true
-周,2,2,zhōu,,,,,田 口,true
-跟,2,2,gēn,,,,,⻊ 艮,false
-慢,2,2,màn,,,,,忄 日 罒 又,false
-头,2,2,tóu;tou,,,,,大 ⺀,false
-着,2,2,zhāo;zháo;zhe;zhuó;zhù,,,,,羊 目,false
-馆,2,2,guǎn,,,,,饣 宀 㠯,false
-每,2,2,měi,,,,,丿 一 母,false
-完,2,2,wán,,,,,宀 二 儿,false
-准,2,2,zhǔn,,,,,冫 隹,false
-过,2,2,guò;guo,,,,,辶 寸,true
-门,2,2,mén,,,,,门,true
-万,2,2,wàn,,,,,一 丿 ㇆,true
-自,2,2,zì,,,,,自,false
-黑,2,2,hēi,,,,,黑,true
-拿,2,2,ná,,,,,人 一 口 手,false
-网,2,2,wǎng,,,,,网,false
-走,2,2,zǒu,,,,,走,false
-红,2,2,hóng,,,,,纟 工,true
-鸟,2,2,diǎo;niǎo,,,,,鸟,false
-往,2,2,wǎng,,,,,彳 王 丶,false
-足,2,2,jù;zú,,,,,足,false
-花,2,2,huā,,,,,艹 亻 匕,true
-旁,2,2,páng,,,,,亠 丷 冖 方,false
-忘,2,2,wàng,,,,,匸 丶 心,false
-最,2,2,zuì,,,,,曰 耳 又,false
-画,2,2,huà,,,,,一 田 凵,false
-跑,2,2,páo;pǎo,,,,,⻊ 勹 巳,false
-望,2,2,wàng,,,,,匸 丶 月 王,false
-左,2,2,zuǒ,,,,,𠂇 工,true
-坏,2,2,huài,,,,,土 一 丿 卜,false
-票,2,2,piào,,,,,覀 示,false
-为,2,2,wéi;wèi,,,,,力 ⺀,false
-己,2,2,jǐ,,,,,己,false
-妻,2,2,qī;qì,,,,,十 ⺺ 女,false
-位,2,2,wèi,,,,,亻 立,false
-记,2,2,jì,,,,,讠 己,false
-情,2,2,qíng,,,,,忄 青,false
-舞,2,2,wǔ,,,,,舛,false
-阿,3,3,ā;ē,,,,,阝 一 亅 口,true
-典,3,3,diǎn,,,,,二 凵 八,false
-环,3,3,huán,,,,,王 一 丿 卜,true
-康,3,3,kāng,,,,,广 隶,true
-矮,3,3,ǎi,,,,,矢 禾 女,false
-调,3,3,diào;tiáo,,,,,讠 田 口,false
-换,3,3,huàn,,,,,扌 ⺈ 大 冂,false
-渴,3,3,kě,,,,,氵 曰 勹 人 ㇗,false
-安,3,3,ān,,,,,宀 女,true
-定,3,3,dìng,,,,,宀 一 龰,false
-黄,3,3,huáng,,,,,艹 一 二 丨 凵 八,true
-刻,3,3,kè,,,,,亠 丨 ㇙ 人 刂,false
-把,3,3,bǎ;bà,,,,,扌 丨 丨 乚,false
-丢,3,3,diū,,,,,㇒ 士 厶,false
-婚,3,3,hūn,,,,,女 氏 日,false
-空,3,3,kōng;kòng,,,,,穴 工,false
-般,3,3,bān;pán,,,,,舟 殳,false
-冬,3,3,dōng,,,,,夂 ⺀,true
-活,3,3,huó,,,,,氵 舌,false
-哭,3,3,kū,,,,,吅 犬,false
-搬,3,3,bān,,,,,扌 舟 殳,false
-短,3,3,duǎn,,,,,矢 豆,false
-或,3,3,huò,,,,,戈 口 一,false
-筷,3,3,kuài,,,,,⺮ 忄 丨 人,false
-板,3,3,bǎn;pàn,,,,,木 ⺁ 又,false
-段,3,3,duàn,,,,,丨 殳,true
-激,3,3,jī,,,,,氵 白 方 ⺙,false
-矿,3,3,kuàng,,,,,石 广,false
-办,3,3,bàn,,,,,力 八,false
-锻,3,3,duàn,,,,,钅 丨 殳,false
-级,3,3,jí,,,,,纟 ㇎ 丿 ㇏,false
-蓝,3,3,lán,,,,,艹 丨 丨 丿 一 丶 皿,true
-饱,3,3,bǎo,,,,,饣 勹 巳,false
-朵,3,3,duǒ,,,,,几 木,false
-极,3,3,jí,,,,,木 ㇎ 丿 ㇏,false
-礼,3,3,lǐ,,,,,礻 乚,true
-报,3,3,bào,,,,,扌 卩 又,false
-饿,3,3,è,,,,,饣 手 戈,false
-急,3,3,jí,,,,,⺈ 彐 心,false
-李,3,3,lǐ,,,,,木 子,true
-北,3,3,běi,,,,,北,false
-而,3,3,ér,,,,,而,false
-季,3,3,jì,,,,,禾 子,true
-理,3,3,lǐ,,,,,王 里,false
-被,3,3,bèi,,,,,衤 皮,false
-耳,3,3,ěr,,,,,耳,false
-绩,3,3,jì,,,,,纟 龶 贝,false
-力,3,3,lì,,,,,力,true
-必,3,3,bì,,,,,心 丿,false
-发,3,3,fā;fà,,,,,㇗ 丨 丶 又,false
-加,3,3,jiā,,,,,力 口,true
-历,3,3,lì,,,,,厂 力,false
-变,3,3,biàn,,,,,亠 丨 亅 八 又,false
-法,3,3,fǎ,,,,,氵 土 厶,true
-假,3,3,gēi;jiǎ;jià,,,,,亻 尸 二 又,false
-脸,3,3,liǎn,,,,,月 人 一 ⺍ 一,false
-遍,3,3,biàn,,,,,辶 户 冂 艹,false
-方,3,3,fāng,,,,,方,true
-坚,3,3,jiān,,,,,丨 丨 又 土,false
-练,3,3,liàn,,,,,纟 乚 一 ㇆ 八,false
-宾,3,3,bīn,,,,,宀 兵,false
-放,3,3,fàng,,,,,方 ⺙,false
-检,3,3,jiǎn,,,,,木 人 一 ⺍ 一,false
-炼,3,3,liàn,,,,,火 乚 一 ㇆ 八,false
-冰,3,3,bīng,,,,,冫 水,false
-风,3,3,fēng,,,,,风,false
-简,3,3,jiǎn,,,,,⺮ 门 日,false
-凉,3,3,liáng;liàng,,,,,冫 亠 口 小,true
-才,3,3,cái,,,,,𠂇 ㇒,false
-封,3,3,fēng,,,,,圭 寸,true
-健,3,3,jiàn,,,,,亻 廴 聿,false
-辆,3,3,liàng,,,,,车 一 从 冂,false
-参,3,3,cān;shēn,,,,,厶 大 彡,false
-附,3,3,fù,,,,,阝 亻 寸,false
-讲,3,3,jiǎng,,,,,讠 二,false
-聊,3,3,liáo,,,,,耳 卯,false
-草,3,3,cǎo;cào,,,,,艹 日 十,false
-复,3,3,fù,,,,,丿 一 日 夂,false
-蕉,3,3,jiāo;qiáo,,,,,艹 隹 灬,false
-料,3,3,liào,,,,,米 斗,false
-层,3,3,céng,,,,,尸 二 厶,false
-该,3,3,gāi,,,,,讠 亠 丨 ㇙ 人,false
-角,3,3,jiǎo;jué,,,,,角,true
-邻,3,3,lín,,,,,人 丶 龴 阝,false
-查,3,3,chá;zhā,,,,,木 日 一,true
-概,3,3,gài,,,,,木 丨 彐 乚 丶 旡,false
-饺,3,3,jiǎo,,,,,饣 亠 八 乂,false
-凌,3,3,líng,,,,,冫 土 八 夂,true
-差,3,3,chā;chà;chāi,,,,,羊 工,false
-感,3,3,gǎn,,,,,厂 戈 一 口 心,false
-脚,3,3,jiǎo;jué,,,,,月 土 厶 卩,false
-马,3,3,mǎ,,,,,马,true
-尝,3,3,cháng,,,,,⺌ 冖 二 厶,false
-干,3,3,gān;gàn,,,,,干,true
-较,3,3,jiào,,,,,车 亠 八 乂,false
-码,3,3,mǎ,,,,,石 马,false
-衬,3,3,chèn,,,,,衤 寸,false
-刚,3,3,gāng,,,,,冂 乂 刂,false
-接,3,3,jiē,,,,,扌 立 女,false
-满,3,3,mǎn,,,,,氵 艹 一 从 冂,true
-成,3,3,chéng,,,,,一 丿 ㇆ 戈,true
-糕,3,3,gāo,,,,,米 羊 灬,false
-街,3,3,jiē,,,,,行 圭,false
-毛,3,3,máo,,,,,毛,true
-城,3,3,chéng,,,,,土 一 丿 ㇆ 戈,false
-根,3,3,gēn,,,,,木 艮,false
-节,3,3,jiē;jié,,,,,艹 ㇆ 丨,false
-冒,3,3,mào,,,,,冂 二 目,true
-迟,3,3,chí,,,,,辶 尸 ㇏,true
-更,3,3,gēng;gèng,,,,,一 日 丨 乂,false
-结,3,3,jiē;jié,,,,,纟 士 口,false
-末,3,3,mò,,,,,木 一,false
-持,3,3,chí,,,,,扌 土 寸,false
-共,3,3,gòng,,,,,艹 一 八,false
-解,3,3,jiě;jiè;xiè,,,,,角 刀 牛,true
-目,3,3,mù,,,,,目,false
-初,3,3,chū,,,,,衤 刀,false
-故,3,3,gù,,,,,十 口 ⺙,false
-界,3,3,jiè,,,,,田 人,false
-南,3,3,nán,,,,,十 冂 丷 干,true
-除,3,3,chú,,,,,阝 人 干 小,false
-顾,3,3,gù,,,,,厂 乚 ㇆ 页,true
-借,3,3,jiè,,,,,亻 艹 一 日,false
-难,3,3,nán;nàn,,,,,又 隹,false
-楚,3,3,chǔ,,,,,林 疋,true
-瓜,3,3,guā,,,,,瓜,false
-斤,3,3,jīn,,,,,斤,false
-努,3,3,nǔ,,,,,女 又 力,false
-处,3,3,chǔ;chù,,,,,夂 卜,false
-刮,3,3,guā,,,,,舌 刂,false
-净,3,3,jìng,,,,,冫 ⺈ ⺕ 亅,false
-爬,3,3,pá,,,,,爪 丨 丨 乚,false
-船,3,3,chuán,,,,,舟 几 口,false
-怪,3,3,guài,,,,,忄 又 土,false
-静,3,3,jìng,,,,,青 ⺈ ⺕ 亅,false
-怕,3,3,pà,,,,,忄 白,true
-春,3,3,chūn,,,,,一 二 丨 八 日,true
-惯,3,3,guàn,,,,,忄 囗 十 贝,false
-境,3,3,jìng,,,,,土 音 儿,false
-拍,3,3,pāi,,,,,扌 白,false
-聪,3,3,cōng,,,,,耳 丷 口 心,false
-海,3,3,hǎi,,,,,氵 丿 一 母,true
-久,3,3,jiǔ,,,,,勹 ㇏,false
-盘,3,3,pán,,,,,舟 皿,false
-答,3,3,dā;dá,,,,,⺮ 人 一 口,false
-害,3,3,hài,,,,,宀 一 二 丨 口,false
-旧,3,3,jiù,,,,,丨 日,false
-胖,3,3,pán;pàng,,,,,月 二 丨 丷,false
-带,3,3,dài,,,,,川 一 冖 巾,false
-合,3,3,gě;hé,,,,,人 一 口,false
-居,3,3,jū,,,,,尸 十 口,true
-啤,3,3,pí,,,,,口 冂 二 丨 丶 十,false
-担,3,3,dān;dàn,,,,,扌 日 一,false
-河,3,3,hé,,,,,氵 一 亅 口,false
-句,3,3,gōu;jù,,,,,勹 口,false
-片,3,3,piān;piàn,,,,,片,false
-单,3,3,dān,,,,,丷 冂 二 丨 十,true
-乎,3,3,hū,,,,,㇒ 𠂇 丷,false
-据,3,3,jù;jū,,,,,扌 尸 十 口,false
-平,3,3,píng,,,,,干 丷,true
-当,3,3,dāng;dàng,,,,,⺌ 彐,false
-护,3,3,hù,,,,,扌 户,false
-决,3,3,jué,,,,,冫 丨 人,false
-瓶,3,3,píng,,,,,丷 一 廾 瓦,false
-灯,3,3,dēng,,,,,火 一 亅,false
-化,3,3,huā;huà,,,,,亻 匕,false
-卡,3,3,kǎ;qiǎ,,,,,⺊ 一 卜,false
-其,3,3,qí,,,,,甘 一 八,false
-奇,3,3,jī;qí,,,,,大 一 亅 口,false
-收,3,3,shōu,,,,,丨 ㇙ ⺙,false
-香,3,3,xiāng,,,,,香,false
-用,3,3,yòng,,,,,用,false
-骑,3,3,jì;qí,,,,,马 大 一 亅 口,false
-受,3,3,shòu,,,,,爫 冖 又,false
-箱,3,3,xiāng,,,,,⺮ 木 目,false
-邮,3,3,yóu,,,,,二 丨 凵 阝,false
-汽,3,3,qì,,,,,氵 气,false
-瘦,3,3,shòu,,,,,疒 臼 丨 又,false
-响,3,3,xiǎng,,,,,口 宀 口,false
-又,3,3,yòu,,,,,又,false
-铅,3,3,qiān,,,,,钅 几 口,false
-叔,3,3,shū,,,,,⺊ 一 小 又,false
-向,3,3,xiàng,,,,,宀 口,true
-于,3,3,yú,,,,,干 亅,true
-且,3,3,qiě,,,,,月 一,false
-束,3,3,shù,,,,,木 口,true
-像,3,3,xiàng,,,,,亻 ⺈ 口 丨 勹,false
-羽,3,3,yǔ,,,,,羽,false
-轻,3,3,qīng,,,,,车 龴 工,false
-树,3,3,shù,,,,,木 又 寸,false
-鞋,3,3,xié,,,,,革 圭,false
-育,3,3,yù,,,,,亠 厶 月,false
-清,3,3,qīng,,,,,氵 青,true
-数,3,3,shǔ;shù;shuò,,,,,米 女 ⺙,false
-心,3,3,xīn,,,,,心,false
-遇,3,3,yù,,,,,辶 冂 二 丨 禸,true
-秋,3,3,qiū,,,,,禾 火,true
-刷,3,3,shuā;shuà,,,,,尸 巾 刂,false
-信,3,3,xìn,,,,,亻 言,false
-园,3,3,yuán,,,,,囗 二 儿,true
-求,3,3,qiú,,,,,𠂇 丶 氺,false
-双,3,3,shuāng,,,,,双,true
-行,3,3,háng;xíng,,,,,行,false
-员,3,3,yuán,,,,,口 贝,false
-区,3,3,qū,,,,,匚 乂,true
-算,3,3,suàn,,,,,⺮ 目 艹,false
-熊,3,3,xióng,,,,,厶 月 灬,true
-愿,3,3,yuàn,,,,,厂 白 小 心,false
-趣,3,3,qù,,,,,走 耳 又,false
-糖,3,3,táng,,,,,米 广 ⺺ 口,false
-须,3,3,xū,,,,,彡 页,false
-越,3,3,yuè,,,,,走 匚 戈,true
-全,3,3,quán,,,,,人 王,true
-特,3,3,tè,,,,,牛 土 寸,false
-需,3,3,xū,,,,,雨 而,false
-咱,3,3,zán;zá,,,,,口 自,false
-泉,3,3,quán,,,,,白 水,false
-梯,3,3,tī,,,,,木 丷 弓 丨 ㇒,false
-选,3,3,xuǎn,,,,,辶 ⺧ 儿,false
-脏,3,3,zàng;zāng,,,,,月 广 土,false
-裙,3,3,qún,,,,,衤 ⺕ 丨 口,false
-提,3,3,dī;tí,,,,,扌 日 一 龰,false
-牙,3,3,yá,,,,,牙,false
-澡,3,3,zǎo,,,,,氵 品 木,false
-容,3,3,róng,,,,,宀 谷,true
-甜,3,3,tián,,,,,舌 甘,false
-言,3,3,yán,,,,,言,false
-择,3,3,zé,,,,,扌 又 二 丨,false
-如,3,3,rú,,,,,女 口,false
-挺,3,3,tǐng,,,,,扌 廴 ㇒ 士,false
-演,3,3,yǎn,,,,,氵 宀 一 二 丨 凵 八,false
-展,3,3,zhǎn,,,,,尸 艹 一 乚,true
-赛,3,3,sài,,,,,宀 二 一 八 贝,false
-突,3,3,tū,,,,,穴 犬,false
-羊,3,3,yáng,,,,,羊,true
-张,3,3,zhāng,,,,,弓 长,true
-伞,3,3,sǎn,,,,,人 十 丷,false
-图,3,3,tú,,,,,囗 夂 ⺀,false
-阳,3,3,yáng,,,,,阝 日,false
-照,3,3,zhào,,,,,日 刀 口 灬,false
-扫,3,3,sǎo;sào,,,,,扌 彐,false
-腿,3,3,tuǐ,,,,,月 辶 艮,false
-养,3,3,yǎng,,,,,羊 八,false
-者,3,3,zhě,,,,,耂 日,false
-沙,3,3,shā,,,,,氵 小 丿,true
-碗,3,3,wǎn,,,,,石 宀 夕 乚 ㇆,false
-业,3,3,yè,,,,,丷 一,true
-直,3,3,zhí,,,,,十 目 一,true
-山,3,3,shān,,,,,山,true
-卫,3,3,wèi,,,,,㇆ 丨 一,true
-页,3,3,xié;yè,,,,,页,false
-纸,3,3,zhǐ,,,,,纟 氏,false
-衫,3,3,shān,,,,,衤 彡,false
-闻,3,3,wén,,,,,门 耳,true
-姨,3,3,yí,,,,,女 大 弓,false
-终,3,3,zhōng,,,,,纟 夂 ⺀,false
-烧,3,3,shāo,,,,,火 一 儿,false
-屋,3,3,wū,,,,,尸 至,false
-议,3,3,yì,,,,,讠 乂 丶,false
-种,3,3,zhǒng;zhòng,,,,,禾 口 丨,false
-勺,3,3,sháo,,,,,勹 丶,false
-务,3,3,wù,,,,,夂 力,false
-易,3,3,yì,,,,,日 勹,true
-重,3,3,chóng;zhòng,,,,,㇒ 十 里,false
-声,3,3,shēng,,,,,士 丨 丨,false
-物,3,3,wù,,,,,牛 勹,false
-音,3,3,yīn,,,,,音,false
-主,3,3,zhǔ,,,,,王 丶,false
-实,3,3,shí,,,,,宀 大 ⺀,false
-戏,3,3,xì,,,,,又 戈,false
-银,3,3,yín,,,,,钅 艮,false
-助,3,3,zhù,,,,,月 一 力,false
-史,3,3,shǐ,,,,,口 丨 乂,true
-夏,3,3,xià,,,,,一 自 夂,true
-饮,3,3,yǐn;yìn,,,,,饣 欠,false
-注,3,3,zhù,,,,,氵 王 丶,false
-世,3,3,shì,,,,,㇗ 廿,true
-鲜,3,3,xiǎn;xiān,,,,,鱼 羊,false
-应,3,3,yīng;yìng,,,,,广 ⺍ 一,true
-总,3,3,zǒng,,,,,丷 口 心,false
-适,3,3,kuò;shì,,,,,辶 舌,true
-相,3,3,xiāng;xiàng,,,,,木 目,true
-迎,3,3,yíng,,,,,辶 ㇒ ㇗ 卩,false
-嘴,3,3,zuǐ,,,,,口 止 匕 角,false
+hanzi,tian_level,hsk_level,pinyin,primary_reading,simple_meaning,meaning,meaning_mnemonic,reading_mnemonic,components,in_names
+一,1,1,yī,yī,,,,,一,false
+三,1,1,sān,sān,,,,,一 二,true
+个,1,1,gè,gè,,,,,人 丨,false
+中,1,1,zhōng;zhòng,zhōng,,,,,口 丨,true
+二,1,1,èr,èr,,,,,二,false
+人,1,1,rén,rén,,,,,人,false
+口,1,1,kǒu,kǒu,,,,,口,false
+日,1,1,rì,rì,,,,,日,true
+昨,1,1,zuó,zuó,,,,,日 丿 一 丨 二,false
+介,1,2,jiè,jiè,,,,,人,false
+夫,1,2,fū;fú,fū,,,,,人 二,false
+合,1,3,gě;hé,gě,,,,,人 一 口,false
+旧,1,3,jiù,jiù,,,,,丨 日,false
+书,2,1,shū,shū,,,,,丨 丶,true
+什,2,1,shén;shí,shén,,,,,亻 十,false
+休,2,1,xiū,xiū,,,,,亻 木,true
+作,2,1,zuō;zuò,zuō,,,,,亻 丿 一 丨 二,false
+八,2,1,bā,bā,,,,,八,false
+十,2,1,shí,shí,,,,,十,false
+只,2,1,zhǐ;zhī,zhǐ,,,,,口 八,false
+早,2,1,zǎo,zǎo,,,,,日 十,false
+本,2,1,běn,běn,,,,,木 一,false
+但,2,2,dàn,dàn,,,,,亻 日 一,false
+体,2,2,tǐ,tǐ,,,,,亻 木 一,false
+春,2,3,chūn,chūn,,,,,一 二 丨 八 日,true
+末,2,3,mò,mò,,,,,木 一,false
+束,2,3,shù,shù,,,,,木 口,true
+查,2,3,chá;zhā,chá,,,,,木 日 一,true
+七,3,1,qī,qī,,,,,乚 一,false
+以,3,1,yǐ,yǐ,,,,,乚 丶 人,true
+六,3,1,liù,liù,,,,,亠 八,false
+半,3,1,bàn,bàn,,,,,二 丨 丷,false
+吧,3,1,bā;ba;biā,bā,,,,,口 丨 乚,false
+明,3,1,míng,míng,,,,,日 月,true
+月,3,1,yuè,yuè,,,,,月,false
+来,3,1,lái,lái,,,,,木 一 丷,false
+电,3,1,diàn,diàn,,,,,日 丨 乚,false
+认,3,1,rèn,rèn,,,,,讠 人,false
+识,3,1,shí;zhì,shí,,,,,讠 口 八,false
+且,3,3,qiě,qiě,,,,,月 一,false
+业,3,3,yè,yè,,,,,丷 一,true
+伞,3,3,sǎn,sǎn,,,,,人 十 丷,false
+又,3,3,yòu,yòu,,,,,又,false
+胖,3,3,pán;pàng,pán,,,,,月 二 丨 丷,false
+讲,3,3,jiǎng,jiǎng,,,,,讠 二,false
+东,5,1,dōng,dōng,,,,,乚 一 小,true
+也,5,1,yě,yě,,,,,乚 ㇆ 丨,true
+习,5,1,xí,xí,,,,,㇆ 亠,true
+他,5,1,tā,tā,,,,,亻 乚 ㇆ 丨,false
+司,5,1,sī,sī,,,,,㇆ 一 口,true
+女,5,1,nǚ;rǔ,nǚ,,,,,女,false
+她,5,1,tā,tā,,,,,女 乚 ㇆ 丨,false
+妹,5,1,mèi,mèi,,,,,女 木 一,false
+姐,5,1,jiě,jiě,,,,,女 月 一,false
+小,5,1,xiǎo,xiǎo,,,,,小,false
+少,5,1,shǎo;shào,shǎo,,,,,小 丿,false
+万,5,2,wàn,wàn,,,,,一 丿 ㇆,true
+词,5,2,cí,cí,,,,,讠 ㇆ 一 口,false
+卫,5,3,wèi,wèi,,,,,㇆ 丨 一,true
+如,5,3,rú,rú,,,,,女 口,false
+儿,6,1,rén;ér;r,rén,,,,,儿,false
+元,6,1,yuán,yuán,,,,,二 儿,true
+关,6,1,guān,guān,,,,,丷 一 大,true
+千,6,1,qiān,qiān,,,,,㇒ 十,false
+大,6,1,dà;dài,dà,,,,,大,false
+天,6,1,tiān,tiān,,,,,一 大,false
+太,6,1,tài,tài,,,,,大 丶,false
+宜,6,1,yí,yí,,,,,宀 月 一,true
+说,6,1,shuì;shuō,shuì,,,,,讠 丷 口 儿,false
+完,6,2,wán,wán,,,,,宀 二 儿,false
+向,6,3,xiàng,xiàng,,,,,宀 口,true
+响,6,3,xiǎng,xiǎng,,,,,口 宀,false
+安,6,3,ān,ān,,,,,宀 女,true
+害,6,3,hài,hài,,,,,宀 一 二 丨 口,false
+喂,7,1,wéi;wèi,wéi,,,,,口 田 一 乚,false
+块,7,1,kuài,kuài,,,,,土 丨 人,false
+果,7,1,guǒ,guǒ,,,,,田 木,false
+茶,7,1,chá,chá,,,,,艹 人 十 小,false
+课,7,1,kè,kè,,,,,讠 田 木,false
+周,7,2,zhōu,zhōu,,,,,田 口,true
+地,7,2,de;dì,de,,,,,土 乚 ㇆ 丨,false
+借,7,3,jiè,jiè,,,,,亻 艹 一 日,false
+共,7,3,gòng,gòng,,,,,艹 一 八,false
+坚,7,3,jiān,jiān,,,,,丨 又 土,false
+界,7,3,jiè,jiè,,,,,田 人,false
+节,7,3,jiē;jié,jiē,,,,,艹 ㇆ 丨,false
+草,7,3,cǎo;cào,cǎo,,,,,艹 日 十,false
+调,7,3,diào;tiáo,diào,,,,,讠 田 口,false
+么,9,1,má;ma;me;mó,má,,,,,丿 厶,false
+会,9,1,huì;kuài,huì,,,,,人 二 厶,false
+公,9,1,gōng,gōng,,,,,八 厶,false
+去,9,1,qù,qù,,,,,土 厶,false
+可,9,1,kě;kè,kě,,,,,一 亅 口,false
+椅,9,1,yǐ,yǐ,,,,,木 大 一 亅 口,false
+能,9,1,néng,néng,,,,,厶 月,true
+始,9,2,shǐ,shǐ,,,,,女 厶 口,false
+运,9,2,yùn,yùn,,,,,辶 二 厶,false
+进,9,2,jìn,jìn,,,,,辶 二,false
+远,9,2,yuǎn;yuàn,yuǎn,,,,,辶 二 儿,false
+送,9,2,sòng,sòng,,,,,辶 丷 一 大,false
+变,9,3,biàn,biàn,,,,,亠 丨 亅 八 又,false
+奇,9,3,jī;qí,jī,,,,,大 一 亅 口,false
+育,9,3,yù,yù,,,,,亠 厶 月,false
+五,10,1,wǔ,wǔ,,,,,一 力,false
+汉,10,1,hàn,hàn,,,,,氵 又,true
+男,10,1,nán,nán,,,,,田 力,false
+语,10,1,yǔ;yù,yǔ,,,,,讠 一 力 口,false
+边,10,1,biān;bian,biān,,,,,辶 力,false
+动,10,2,dòng,dòng,,,,,二 厶 力,false
+咖,10,2,kā,kā,,,,,口 力,false
+力,10,3,lì,lì,,,,,力,true
+办,10,3,bàn,bàn,,,,,力 八,false
+加,10,3,jiā,jiā,,,,,力 口,true
+助,10,3,zhù,zhù,,,,,月 一 力,false
+努,10,3,nǔ,nǔ,,,,,女 又 力,false
+沙,10,3,shā,shā,,,,,氵 小 丿,true
+河,10,3,hé,hé,,,,,氵 一 亅 口,false
+法,10,3,fǎ,fǎ,,,,,氵 土 厶,true
+再,11,1,zài,zài,,,,,一 冂 土,false
+写,11,1,xiě,xiě,,,,,冖 一,false
+同,11,1,tóng;tòng,tóng,,,,,冂 一 口,false
+商,11,1,shāng,shāng,,,,,亠 丷 冂 八 口,true
+怎,11,1,zěn,zěn,,,,,丿 一 丨 二 心,false
+思,11,2,sī,sī,,,,,田 心,false
+勺,11,3,sháo,sháo,,,,,勹 丶,false
+单,11,3,dān,dān,,,,,丷 冂 二 丨 十,true
+句,11,3,gōu;jù,gōu,,,,,勹 口,false
+啤,11,3,pí,pí,,,,,口 冂 二 丨 丶 十,false
+心,11,3,xīn,xīn,,,,,心,false
+必,11,3,bì,bì,,,,,心 丿,false
+总,11,3,zǒng,zǒng,,,,,丷 口 心,false
+易,11,3,yì,yì,,,,,日 勹,true
+哪,13,1,nǎ;na;něi,nǎ,,,,,口 ㇆ 二 丨 阝,false
+想,13,1,xiǎng,xiǎng,,,,,木 目 心,false
+真,13,1,zhēn,zhēn,,,,,十 目 一 八,false
+那,13,1,nǎ;nà,nǎ,,,,,㇆ 二 丨 阝,true
+院,13,1,yuàn,yuàn,,,,,阝 宀 二 儿,false
+啊,13,2,ā;á;ǎ;à;a,ā,,,,,口 阝 一 亅,false
+阴,13,2,yīn,yīn,,,,,阝 月,true
+冒,13,3,mào,mào,,,,,冂 二 目,true
+目,13,3,mù,mù,,,,,目,false
+直,13,3,zhí,zhí,,,,,十 目 一,true
+相,13,3,xiāng;xiàng,xiāng,,,,,木 目,true
+阳,13,3,yáng,yáng,,,,,阝 日,false
+阿,13,3,ā;ē,ā,,,,,阝 一 亅 口,true
+便,14,1,biàn;pián,biàn,,,,,亻 一 日 丨 乂,false
+友,14,1,yǒu,yǒu,,,,,𠂇 又,false
+在,14,1,zài,zài,,,,,𠂇 亻 土,false
+好,14,1,hǎo;hào,hǎo,,,,,女 子,false
+子,14,1,zǐ;zi,zǐ,,,,,子,false
+字,14,1,zì,zì,,,,,宀 子,false
+有,14,1,yǒu,yǒu,,,,,𠂇 月,false
+校,14,1,jiào;xiào,jiào,,,,,木 亠 八 乂,false
+丈,14,2,zhàng,zhàng,,,,,十 乂,false
+交,14,2,jiāo,jiāo,,,,,亠 八 乂,false
+右,14,2,yòu,yòu,,,,,𠂇 口,false
+乎,14,3,hū,hū,,,,,㇒ 𠂇 丷,false
+史,14,3,shǐ,shǐ,,,,,口 丨 乂,true
+才,14,3,cái,cái,,,,,𠂇 ㇒,false
+更,14,3,gēng;gèng,gēng,,,,,一 日 丨 乂,false
+李,14,3,lǐ,lǐ,,,,,木 子,true
+议,14,3,yì,yì,,,,,讠 乂 丶,false
+下,16,1,xià,xià,,,,,一 卜,false
+不,16,1,bù,bù,,,,,一 丿 卜,false
+对,16,1,duì,duì,,,,,又 寸,false
+打,16,1,dá;dǎ,dá,,,,,扌 一 亅,false
+时,16,1,shí,shí,,,,,日 寸,true
+杯,16,1,bēi,bēi,,,,,木 一 丿 卜,false
+还,16,1,hái;huán,hái,,,,,辶 一 丿 卜,true
+坏,16,2,huài,huài,,,,,土 一 丿 卜,false
+过,16,2,guò;guo,guò,,,,,辶 寸,true
+把,16,3,bǎ;bà,bǎ,,,,,扌 丨 乚,false
+担,16,3,dān;dàn,dān,,,,,扌 日 一,false
+择,16,3,zé,zé,,,,,扌 又 二 丨,false
+持,16,3,chí,chí,,,,,扌 土 寸,false
+树,16,3,shù,shù,,,,,木 又 寸,false
+附,16,3,fù,fù,,,,,阝 亻 寸,false
+住,17,1,zhù,zhù,,,,,亻 王 丶,false
+客,17,1,kè,kè,,,,,宀 夂 口,false
+条,17,1,tiáo,tiáo,,,,,夂 十 小,false
+玩,17,1,wán,wán,,,,,王 二 儿,false
+为,17,2,wéi;wèi,wéi,,,,,力 ⺀,false
+备,17,2,bèi,bèi,,,,,夂 田,false
+头,17,2,tóu;tou,tóu,,,,,大 ⺀,false
+主,17,3,zhǔ,zhǔ,,,,,王 丶,false
+全,17,3,quán,quán,,,,,人 王,true
+冬,17,3,dōng,dōng,,,,,夂 ⺀,true
+务,17,3,wù,wù,,,,,夂 力,false
+处,17,3,chǔ;chù,chǔ,,,,,夂 卜,false
+复,17,3,fù,fù,,,,,丿 一 日 夂,false
+实,17,3,shí,shí,,,,,宀 大 ⺀,false
+注,17,3,zhù,zhù,,,,,氵 王 丶,false
+环,17,3,huán,huán,,,,,王 一 丿 卜,true
+上,18,1,shǎng;shàng,shǎng,,,,,⺊ 一,false
+市,18,1,shì,shì,,,,,亠 巾,false
+师,18,1,shī,shī,,,,,一 巾,true
+桌,18,1,zhuō,zhuō,,,,,⺊ 日 木,false
+给,18,1,gěi;jǐ,gěi,,,,,纟 人 一 口,false
+希,18,2,xī,xī,,,,,乂 𠂇 巾,false
+帮,18,2,bāng,bāng,,,,,一 二 丨 阝 巾,false
+药,18,2,yào,yào,,,,,艹 纟 勹 丶,false
+让,18,2,ràng,ràng,,,,,讠 ⺊ 一,false
+卡,18,3,kǎ;qiǎ,kǎ,,,,,⺊ 一 卜,false
+叔,18,3,shū,shū,,,,,⺊ 一 小 又,false
+练,18,3,liàn,liàn,,,,,纟 乚 一 ㇆ 八,false
+终,18,3,zhōng,zhōng,,,,,纟 夂 ⺀,false
+你,20,1,nǐ,nǐ,,,,,亻 ⺈ 小,false
+它,20,1,tā,tā,,,,,宀 匕,false
+年,20,1,nián,nián,,,,,丿 一 十 ㇗ 丨,true
+您,20,1,nín,nín,,,,,亻 ⺈ 小 心,false
+晚,20,1,wǎn,wǎn,,,,,日 ⺈ 口 丨 乚,false
+乐,20,2,lè;yuè,lè,,,,,㇒ ㇗ 小,true
+快,20,2,kuài,kuài,,,,,忄 丨 人,false
+笑,20,2,xiào,xiào,,,,,⺮ ㇒ 大,false
+等,20,2,děng,děng,,,,,⺮ 土 寸,false
+花,20,2,huā,huā,,,,,艹 亻 匕,true
+像,20,3,xiàng,xiàng,,,,,亻 ⺈ 口 丨 勹,false
+化,20,3,huā;huà,huā,,,,,亻 匕,false
+发,20,3,fā;fà,fā,,,,,㇗ 丨 丶 又,false
+怪,20,3,guài,guài,,,,,忄 又 土,false
+换,20,3,huàn,huàn,,,,,扌 ⺈ 大 冂,false
+答,20,3,dā;dá,dā,,,,,⺮ 人 一 口,false
+筷,20,3,kuài,kuài,,,,,⺮ 忄 丨 人,false
+算,20,3,suàn,suàn,,,,,⺮ 目 艹,false
+箱,20,3,xiāng,xiāng,,,,,⺮ 木 目,false
+听,21,1,tīng;tìng,tīng,,,,,口 斤,false
+工,21,1,gōng,gōng,,,,,工,false
+现,21,1,xiàn,xiàn,,,,,王 见,false
+白,21,1,bái,bái,,,,,白,true
+百,21,1,bǎi,bǎi,,,,,一 白,true
+的,21,1,de;dī;dí;dì,de,,,,,白 勹 丶,false
+见,21,1,jiàn;xiàn,jiàn,,,,,见,false
+左,21,2,zuǒ,zuǒ,,,,,𠂇 工,true
+红,21,2,hóng,hóng,,,,,纟 工,true
+诉,21,2,sù,sù,,,,,讠 斤 丶,false
+近,21,2,jìn,jìn,,,,,辶 斤,false
+怕,21,3,pà,pà,,,,,忄 白,true
+拍,21,3,pāi,pāi,,,,,扌 白,false
+斤,21,3,jīn,jīn,,,,,斤,false
+们,22,1,men,men,,,,,亻 门,false
+喜,22,1,xǐ,xǐ,,,,,士 口 丷 一,false
+士,22,1,shì,shì,,,,,士,true
+睡,22,1,shuì,shuì,,,,,目 ㇒ 十 士 艹,false
+问,22,1,wèn,wèn,,,,,门 口,false
+间,22,1,jiān;jiàn,jiān,,,,,门 日,false
+门,22,2,mén,mén,,,,,门,true
+丢,22,3,diū,diū,,,,,㇒ 士 厶,false
+决,22,3,jué,jué,,,,,冫 丨 人,false
+凉,22,3,liáng;liàng,liáng,,,,,冫 亠 口 小,true
+凌,22,3,líng,líng,,,,,冫 土 八 夂,true
+声,22,3,shēng,shēng,,,,,士 丨,false
+简,22,3,jiǎn,jiǎn,,,,,⺮ 门 日,false
+结,22,3,jiē;jié,jiē,,,,,纟 士 口,false
+买,24,1,mǎi,mǎi,,,,,㇖ 大 ⺀,false
+亮,24,1,liàng,liàng,,,,,亠 口 冖 几,false
+兴,24,1,xīng;xìng,xīng,,,,,⺍ 一 八,true
+几,24,1,jī;jǐ,jī,,,,,几,false
+卖,24,1,mài,mài,,,,,十 ㇖ 大 ⺀,false
+学,24,1,xué,xué,,,,,⺍ 冖 子,false
+机,24,1,jī,jī,,,,,木 几,true
+觉,24,1,jiào;jué,jiào,,,,,⺍ 冖 见,false
+读,24,1,dòu;dú,dòu,,,,,讠 十 ㇖ 大 ⺀,false
+钟,24,1,zhōng,zhōng,,,,,钅 口 丨,true
+铁,24,2,tiě,tiě,,,,,钅 人 二 ㇒,true
+错,24,2,cuò,cuò,,,,,钅 艹 一 日,true
+朵,24,3,duǒ,duǒ,,,,,几 木,false
+检,24,3,jiǎn,jiǎn,,,,,木 人 一 ⺍,false
+脸,24,3,liǎn,liǎn,,,,,月 人 一 ⺍,false
+铅,24,3,qiān,qiān,,,,,钅 几 口,false
+冷,25,1,lěng,lěng,,,,,冫 人 丶 龴,true
+前,25,1,qián,qián,,,,,丷 一 月 刂,false
+午,25,1,wǔ,wǔ,,,,,干 ㇒,false
+苹,25,1,píng,píng,,,,,艹 干 丷,false
+别,25,2,bié;biè,bié,,,,,口 力 刂,true
+经,25,2,jīng,jīng,,,,,纟 龴 工,true
+舒,25,2,shū,shū,,,,,人 干 口 龴 ㇖ 亅,true
+于,25,3,yú,yú,,,,,干 亅,true
+刚,25,3,gāng,gāng,,,,,冂 乂 刂,false
+南,25,3,nán,nán,,,,,十 冂 丷 干,true
+干,25,3,gān;gàn,gān,,,,,干,true
+平,25,3,píng,píng,,,,,干 丷,true
+邻,25,3,lín,lín,,,,,人 丶 龴 阝,false
+除,25,3,chú,chú,,,,,阝 人 干 小,false
+候,27,1,hòu,hòu,,,,,亻 丨 矢,false
+分,27,1,fēn;fèn,fēn,,,,,八 刀,false
+找,27,1,zhǎo,zhǎo,,,,,扌 戈,false
+点,27,1,diǎn,diǎn,,,,,⺊ 口 灬,false
+知,27,1,zhī,zhī,,,,,矢 口,false
+旁,27,2,páng,páng,,,,,亠 丷 冖 方,false
+游,27,2,yóu,yóu,,,,,氵 方 丿 一 子,true
+绍,27,2,shào,shào,,,,,纟 刀 口,true
+城,27,3,chéng,chéng,,,,,土 一 丿 ㇆ 戈,false
+戏,27,3,xì,xì,,,,,又 戈,false
+成,27,3,chéng,chéng,,,,,一 丿 ㇆ 戈,true
+或,27,3,huò,huò,,,,,戈 口 一,false
+方,27,3,fāng,fāng,,,,,方,true
+照,27,3,zhào,zhào,,,,,日 刀 口 灬,false
+熊,27,3,xióng,xióng,,,,,厶 月 灬,true
+名,28,1,míng,míng,,,,,夕 口,false
+四,28,1,sì,sì,,,,,囗 儿,false
+外,28,1,wài,wài,,,,,夕 卜,false
+床,28,1,chuáng,chuáng,,,,,广 木,false
+请,28,1,qǐng,qǐng,,,,,讠 青,false
+雨,28,1,yǔ;yù,yǔ,,,,,雨,false
+零,28,1,líng,líng,,,,,雨 人 丶 龴,false
+因,28,2,yīn,yīn,,,,,囗 大,false
+店,28,2,diàn,diàn,,,,,广 ⺊ 口,false
+情,28,2,qíng,qíng,,,,,忄 青,false
+晴,28,2,qíng,qíng,,,,,日 青,false
+睛,28,2,jīng,jīng,,,,,目 青,false
+园,28,3,yuán,yuán,,,,,囗 二 儿,true
+图,28,3,tú,tú,,,,,囗 夂 ⺀,false
+应,28,3,yīng;yìng,yīng,,,,,广 ⺍ 一,true
+清,28,3,qīng,qīng,,,,,氵 青,true
+脏,28,3,zàng;zāng,zàng,,,,,月 广 土,false
+两,29,1,liǎng,liǎng,,,,,一 从 冂,false
+坐,29,1,zuò,zuò,,,,,土 从,true
+脑,29,1,nǎo,nǎo,,,,,月 亠 凵 乂,false
+从,29,2,cóng,cóng,,,,,从,true
+画,29,2,huà,huà,,,,,一 田 凵,false
+路,29,2,lù,lù,,,,,⻊ 夂 口,true
+跳,29,2,tiào,tiào,,,,,⻊ 儿 冫,false
+踢,29,2,tī,tī,,,,,⻊ 日 勹,false
+典,29,3,diǎn,diǎn,,,,,二 凵 八,false
+满,29,3,mǎn,mǎn,,,,,氵 艹 一 从 冂,true
+演,29,3,yǎn,yǎn,,,,,氵 宀 一 二 丨 凵 八,false
+邮,29,3,yóu,yóu,,,,,二 丨 凵 阝,false
+黄,29,3,huáng,huáng,,,,,艹 一 二 丨 凵 八,true
+些,31,1,xiē,xiē,,,,,止 匕 二,false
+我,31,1,wǒ,wǒ,,,,,手 戈,false
+手,31,1,shǒu,shǒu,,,,,手,false
+新,31,1,xīn,xīn,,,,,立 十 小 斤,true
+欢,31,1,huān,huān,,,,,又 欠,false
+正,31,1,zhēng;zhèng,zhēng,,,,,一 止,false
+超,31,1,chāo,chāo,,,,,走 刀 口,false
+位,31,2,wèi,wèi,,,,,亻 立,false
+拿,31,2,ná,ná,,,,,人 一 口 手,false
+次,31,2,cì,cì,,,,,冫 欠,false
+步,31,2,bù,bù,,,,,止 小 丿,true
+站,31,2,zhàn,zhàn,,,,,立 ⺊ 口,false
+走,31,2,zǒu,zǒu,,,,,走,false
+接,31,3,jiē,jiē,,,,,扌 立 女,false
+了,32,1,le;liǎo;liào,le,,,,,㇇ 亅,false
+今,32,1,jīn,jīn,,,,,人 丶 ㇇,false
+做,32,1,zuò,zuò,,,,,亻 十 口 ⺙,false
+和,32,1,hé;hè;hú;huó;huò,hé,,,,,禾 口,true
+租,32,1,zū,zū,,,,,禾 月 一,false
+泳,32,2,yǒng,yǒng,,,,,氵 ㇆ ㇇ 丶,false
+眼,32,2,yǎn,yǎn,,,,,目 艮,false
+跟,32,2,gēn,gēn,,,,,⻊ 艮,false
+季,32,3,jì,jì,,,,,禾 子,true
+放,32,3,fàng,fàng,,,,,方 ⺙,false
+故,32,3,gù,gù,,,,,十 口 ⺙,false
+根,32,3,gēn,gēn,,,,,木 艮,false
+激,32,3,jī,jī,,,,,氵 白 方 ⺙,false
+矮,32,3,ǎi,ǎi,,,,,矢 禾 女,false
+种,32,3,zhǒng;zhòng,zhǒng,,,,,禾 口 丨,false
+腿,32,3,tuǐ,tuǐ,,,,,月 辶 艮,false
+银,32,3,yín,yín,,,,,钅 艮,false
+叫,33,1,jiào,jiào,,,,,口 丨 ㇙,false
+呢,33,1,ne;ní,ne,,,,,口 尸 匕,false
+孩,33,1,hái,hái,,,,,子 亠 丨 ㇙ 人,false
+弟,33,1,dì;tì,dì,,,,,丷 弓 丨 ㇒,false
+第,33,1,dì,dì,,,,,⺮ 弓 丨 ㇒,false
+假,33,3,gēi;jiǎ;jià,gēi,,,,,亻 尸 二 又,false
+刷,33,3,shuā;shuà,shuā,,,,,尸 巾 刂,false
+刻,33,3,kè,kè,,,,,亠 丨 ㇙ 人 刂,false
+姨,33,3,yí,yí,,,,,女 大 弓,false
+层,33,3,céng,céng,,,,,尸 二 厶,false
+居,33,3,jū,jū,,,,,尸 十 口,true
+展,33,3,zhǎn,zhǎn,,,,,尸 艹 一 乚,true
+据,33,3,jù;jū,jù,,,,,扌 尸 十 口,false
+收,33,3,shōu,shōu,,,,,丨 ㇙ ⺙,false
+梯,33,3,tī,tī,,,,,木 丷 弓 丨 ㇒,false
+该,33,3,gāi,gāi,,,,,讠 亠 丨 ㇙ 人,false
+件,35,1,jiàn,jiàn,,,,,亻 牛,false
+很,35,1,hěn,hěn,,,,,彳 艮,false
+得,35,1,dé;de;děi,dé,,,,,彳 日 一 寸,false
+星,35,1,xīng,xīng,,,,,日 生,false
+样,35,1,yàng,yàng,,,,,木 羊,false
+牛,35,1,niú,niú,,,,,牛,true
+生,35,1,shēng,shēng,,,,,生,false
+姓,35,2,xìng,xìng,,,,,女 生,false
+往,35,2,wǎng,wǎng,,,,,彳 王 丶,false
+着,35,2,zhāo;zháo;zhe;zhuó;zhù,zhāo,,,,,羊 目,false
+养,35,3,yǎng,yǎng,,,,,羊 八,false
+差,35,3,chā;chà;chāi,chā,,,,,羊 工,false
+物,35,3,wù,wù,,,,,牛 勹,false
+特,35,3,tè,tè,,,,,牛 土 寸,false
+羊,35,3,yáng,yáng,,,,,羊,true
+先,36,1,xiān,xiān,,,,,⺧ 儿,false
+吗,36,1,mǎ;ma,mǎ,,,,,口 马,false
+妈,36,1,mā,mā,,,,,女 马,false
+要,36,1,yāo;yào,yāo,,,,,覀 女,false
+雪,36,1,xuě,xuě,,,,,雨 彐,true
+告,36,2,gào,gào,,,,,⺧ 口,false
+洗,36,2,xǐ,xǐ,,,,,氵 ⺧ 儿,false
+急,36,3,jí,jí,,,,,⺈ 彐 心,false
+扫,36,3,sǎo;sào,sǎo,,,,,扌 彐,false
+选,36,3,xuǎn,xuǎn,,,,,辶 ⺧ 儿,false
+马,36,3,mǎ,mǎ,,,,,马,true
+骑,36,3,jì;qí,jì,,,,,马 大 一 亅 口,false
+后,38,1,hòu,hòu,,,,,⺁ 一 口,true
+是,38,1,shì,shì,,,,,日 一 龰,false
+米,38,1,mǐ,mǐ,,,,,米,true
+都,38,1,dōu;dū,dōu,,,,,耂 日 阝,true
+饭,38,1,fàn,fàn,,,,,饣 ⺁ 又,false
+教,38,2,jiāo;jiào,jiāo,,,,,耂 子 ⺙,true
+楼,38,2,lóu,lóu,,,,,木 米 女,true
+定,38,3,dìng,dìng,,,,,宀 一 龰,false
+提,38,3,dī;tí,dī,,,,,扌 日 一 龰,false
+数,38,3,shǔ;shù;shuò,shǔ,,,,,米 女 ⺙,false
+板,38,3,bǎn;pàn,bǎn,,,,,木 ⺁ 又,false
+糕,38,3,gāo,gāo,,,,,米 羊 灬,false
+者,38,3,zhě,zhě,,,,,耂 日,false
+饮,38,3,yǐn;yìn,yǐn,,,,,饣 欠,false
+饺,38,3,jiǎo,jiǎo,,,,,饣 亠 八 乂,false
+饿,38,3,è,è,,,,,饣 手 戈,false
+影,39,1,yǐng,yǐng,,,,,日 亠 口 小 彡,false
+忙,39,1,máng,máng,,,,,忄 匸 丶,false
+爱,39,1,ài,ài,,,,,爫 冖 𠂇 又,false
+菜,39,1,cài,cài,,,,,艹 爫 木,false
+起,39,1,qǐ,qǐ,,,,,走 己,false
+车,39,1,chē,chē,,,,,车,true
+己,39,2,jǐ,jǐ,,,,,己,false
+忘,39,2,wàng,wàng,,,,,匸 丶 心,false
+望,39,2,wàng,wàng,,,,,匸 丶 月 王,false
+记,39,2,jì,jì,,,,,讠 己,false
+参,39,3,cān;shēn,cān,,,,,厶 大 彡,false
+受,39,3,shòu,shòu,,,,,爫 冖 又,false
+轻,39,3,qīng,qīng,,,,,车 龴 工,false
+较,39,3,jiào,jiào,,,,,车 亠 八 乂,false
+辆,39,3,liàng,liàng,,,,,车 一 从 冂,false
+九,40,1,jiǔ,jiǔ,,,,,丿 ㇈,false
+哥,40,1,gē,gē,,,,,哥,false
+奶,40,1,nǎi,nǎi,,,,,女 ㇎ 丿,false
+息,40,1,xī,xī,,,,,自 心,false
+文,40,1,wén,wén,,,,,文,true
+歌,40,1,gē,gē,,,,,哥 欠,false
+热,40,1,rè,rè,,,,,扌 丿 ㇈ 丶 灬,false
+狗,40,1,gǒu,gǒu,,,,,犭 勹 口,false
+猫,40,1,māo,māo,,,,,犭 艹 田,false
+这,40,1,zhè,zhè,,,,,辶 文,false
+题,40,1,tí,tí,,,,,日 一 龰 页,true
+场,40,2,cháng;chǎng,cháng,,,,,土 ㇎,false
+自,40,2,zì,zì,,,,,自,false
+咱,40,3,zán;zá,zán,,,,,口 自,false
+夏,40,3,xià,xià,,,,,一 自 夂,true
+页,40,3,xié;yè,xié,,,,,页,false
+须,40,3,xū,xū,,,,,彡 页,false
+事,42,1,shì,shì,,,,,十 口 丨 ⺺ 亅,false
+包,42,1,bāo,bāo,,,,,勹 巳,true
+谁,42,1,shéi,shéi,,,,,讠 隹,false
+里,42,1,lǐ,lǐ,,,,,里,true
+准,42,2,zhǔn,zhǔn,,,,,冫 隹,false
+妻,42,2,qī;qì,qī,,,,,十 ⺺ 女,false
+懂,42,2,dǒng,dǒng,,,,,忄 艹 ㇒ 十 里,false
+跑,42,2,páo;pǎo,páo,,,,,⻊ 勹 巳,false
+理,42,3,lǐ,lǐ,,,,,王 里,false
+糖,42,3,táng,táng,,,,,米 广 ⺺ 口,false
+蕉,42,3,jiāo;qiáo,jiāo,,,,,艹 隹 灬,false
+重,42,3,chóng;zhòng,chóng,,,,,㇒ 十 里,false
+难,42,3,nán;nàn,nán,,,,,又 隹,false
+饱,42,3,bǎo,bǎo,,,,,饣 勹 巳,false
+到,43,1,dào,dào,,,,,至 刂,false
+喝,43,1,hē;hè,hē,,,,,口 曰 勹 人 ㇗,false
+没,43,1,méi;mò,méi,,,,,氵 殳,false
+火,43,1,huǒ,huǒ,,,,,火,true
+病,43,1,bìng,bìng,,,,,疒 一 人 冂,false
+室,43,2,shì,shì,,,,,宀 至,true
+疼,43,2,téng,téng,,,,,疒 夂 ⺀,false
+屋,43,3,wū,wū,,,,,尸 至,false
+段,43,3,duàn,duàn,,,,,丨 殳,true
+渴,43,3,kě,kě,,,,,氵 曰 勹 人 ㇗,false
+灯,43,3,dēng,dēng,,,,,火 一 亅,false
+炼,43,3,liàn,liàn,,,,,火 乚 一 ㇆ 八,false
+烧,43,3,shāo,shāo,,,,,火 一 儿,false
+秋,43,3,qiū,qiū,,,,,禾 火,true
+锻,43,3,duàn,duàn,,,,,钅 丨 殳,false
+号,44,1,háo;hào,háo,,,,,口 一 ㇉,false
+服,44,1,fú;fù,fú,,,,,月 卩 又,false
+爸,44,1,bà,bà,,,,,父 丨 乚,false
+话,44,1,huà,huà,,,,,讠 舌,false
+贵,44,1,guì,guì,,,,,口 丨 一 贝,false
+爷,44,2,yé,yé,,,,,父 ㇆ 丨,false
+考,44,2,kǎo,kǎo,,,,,耂 一 ㇉,false
+刮,44,3,guā,guā,,,,,舌 刂,false
+员,44,3,yuán,yuán,,,,,口 贝,false
+惯,44,3,guàn,guàn,,,,,忄 囗 十 贝,false
+报,44,3,bào,bào,,,,,扌 卩 又,false
+活,44,3,huó,huó,,,,,氵 舌,false
+脚,44,3,jiǎo;jué,jiǎo,,,,,月 土 厶 卩,false
+赛,44,3,sài,sài,,,,,宀 二 一 八 贝,false
+迎,44,3,yíng,yíng,,,,,辶 ㇒ ㇗ 卩,false
+适,44,3,kuò;shì,kuò,,,,,辶 舌,true
+漂,46,1,piāo;piǎo;piào,piāo,,,,,氵 覀 示,false
+系,46,1,xì;jì,xì,,,,,㇒ 糸,false
+最,46,2,zuì,zuì,,,,,曰 耳 又,false
+票,46,2,piào,piào,,,,,覀 示,false
+累,46,2,lěi;lèi;léi,lěi,,,,,田 糸,true
+虽,46,2,suī,suī,,,,,口 虫,false
+裤,46,2,kù,kù,,,,,衤 广 车,false
+初,46,3,chū,chū,,,,,衤 刀,false
+耳,46,3,ěr,ěr,,,,,耳,false
+聪,46,3,cōng,cōng,,,,,耳 丷 口 心,false
+衫,46,3,shān,shān,,,,,衤 彡,false
+衬,46,3,chèn,chèn,,,,,衤 寸,false
+趣,46,3,qù,qù,,,,,走 耳 又,false
+闻,46,3,wén,wén,,,,,门 耳,true
+医,47,1,yī,yī,,,,,匚 矢,false
+常,47,1,cháng,cháng,,,,,⺌ 冖 口 巾,true
+谢,47,1,xiè,xiè,,,,,讠 身 寸,true
+非,47,1,fēi,fēi,,,,,非,true
+鸡,47,1,jī,jī,,,,,又 鸟,false
+啡,47,2,fēi,fēi,,,,,口 非,false
+身,47,2,shēn,shēn,,,,,身,false
+鸟,47,2,diǎo;niǎo,diǎo,,,,,鸟,false
+区,47,3,qū,qū,,,,,匚 乂,true
+尝,47,3,cháng,cháng,,,,,⺌ 冖 二 厶,false
+当,47,3,dāng;dàng,dāng,,,,,⺌ 彐,false
+越,47,3,yuè,yuè,,,,,走 匚 戈,true
+房,49,1,fáng,fáng,,,,,户 方,true
+期,49,1,qī,qī,,,,,甘 一 八 月,false
+水,49,1,shuǐ,shuǐ,,,,,水,true
+球,49,2,qiú,qiú,,,,,王 𠂇 丶 氺,false
+绿,49,2,lǜ,lǜ,,,,,纟 彐 氺,false
+颜,49,2,yán,yán,,,,,立 厂 彡 页,true
+其,49,3,qí,qí,,,,,甘 一 八,false
+冰,49,3,bīng,bīng,,,,,冫 水,false
+历,49,3,lì,lì,,,,,厂 力,false
+感,49,3,gǎn,gǎn,,,,,厂 戈 一 口 心,false
+愿,49,3,yuàn,yuàn,,,,,厂 白 小 心,false
+护,49,3,hù,hù,,,,,扌 户,false
+求,49,3,qiú,qiú,,,,,𠂇 丶 氺,false
+泉,49,3,quán,quán,,,,,白 水,false
+甜,49,3,tián,tián,,,,,舌 甘,false
+空,49,3,kōng;kòng,kōng,,,,,穴 工,false
+遍,49,3,biàn,biàn,,,,,辶 户 冂 艹,false
+顾,49,3,gù,gù,,,,,厂 乚 ㇆ 页,true
+出,50,1,chū,chū,,,,,出,false
+吃,50,1,chī,chī,,,,,口 丿 一 ㇠,false
+唱,50,1,chàng,chàng,,,,,口 昌,false
+回,50,1,huí,huí,,,,,回,false
+多,50,1,duō,duō,,,,,多,false
+岁,50,1,suì,suì,,,,,山 夕,false
+开,50,1,kāi,kāi,,,,,一 廾,false
+气,50,1,qì,qì,,,,,气,false
+穿,50,1,chuān,chuān,,,,,穴 牙,false
+蛋,50,1,dàn,dàn,,,,,疋 虫,true
+视,50,1,shì,shì,,,,,礻 见,false
+钱,50,1,qián,qián,,,,,钅 戋,true
+山,50,3,shān,shān,,,,,山,true
+汽,50,3,qì,qì,,,,,氵 气,false
+牙,50,3,yá,yá,,,,,牙,false
+礼,50,3,lǐ,lǐ,,,,,礻 乚,true
+国,51,1,guó,guó,,,,,囗 玉,true
+家,51,1,jiā,jiā,,,,,宀 豕,false
+朋,51,1,péng,péng,,,,,朋,false
+班,51,1,bān,bān,,,,,玨 丿 丶,true
+老,51,1,lǎo,lǎo,,,,,老,false
+衣,51,1,yī;yì,yī,,,,,衣,false
+西,51,1,xī,xī,,,,,西,true
+面,51,1,miàn,miàn,,,,,面,false
+旅,51,2,lǚ,lǚ,,,,,方 丿 一 氏,false
+然,51,2,rán,rán,,,,,月 犬 灬,false
+篮,51,2,lán,lán,,,,,⺮ 丨 丿 一 丶 皿,false
+婚,51,3,hūn,hūn,,,,,女 氏 日,false
+突,51,3,tū,tū,,,,,穴 犬,false
+纸,51,3,zhǐ,zhǐ,,,,,纟 氏,false
+蓝,51,3,lán,lán,,,,,艹 丨 丿 一 丶 皿,true
+看,53,1,kān;kàn,kān,,,,,龵 目,false
+道,53,1,dào,dào,,,,,辶 首,false
+飞,53,1,fēi,fēi,,,,,飞,false
+高,53,1,gāo,gāo,,,,,高,true
+意,53,2,yì,yì,,,,,音 心,true
+每,53,2,měi,měi,,,,,丿 一 母,false
+留,53,2,liú,liú,,,,,卯 田,false
+久,53,3,jiǔ,jiǔ,,,,,勹 ㇏,false
+境,53,3,jìng,jìng,,,,,土 音 儿,false
+极,53,3,jí,jí,,,,,木 ㇎ 丿 ㇏,false
+海,53,3,hǎi,hǎi,,,,,氵 丿 一 母,true
+级,53,3,jí,jí,,,,,纟 ㇎ 丿 ㇏,false
+聊,53,3,liáo,liáo,,,,,耳 卯,false
+迟,53,3,chí,chí,,,,,辶 尸 ㇏,true
+音,53,3,yīn,yīn,,,,,音,false
+离,54,2,lí,lí,,,,,亠 凵 乂 禸,true
+笔,54,2,bǐ,bǐ,,,,,⺮ 毛,false
+表,54,2,biǎo,biǎo,,,,,龶 ㇒ ㇗,false
+长,54,2,cháng;zhǎng,cháng,,,,,长,false
+鱼,54,2,yú,yú,,,,,鱼,true
+张,54,3,zhāng,zhāng,,,,,弓 长,true
+搬,54,3,bān,bān,,,,,扌 舟 殳,false
+毛,54,3,máo,máo,,,,,毛,true
+盘,54,3,pán,pán,,,,,舟 皿,false
+绩,54,3,jì,jì,,,,,纟 龶 贝,false
+般,54,3,bān;pán,bān,,,,,舟 殳,false
+船,54,3,chuán,chuán,,,,,舟 几 口,false
+遇,54,3,yù,yù,,,,,辶 冂 二 丨 禸,true
+鲜,54,3,xiǎn;xiān,xiǎn,,,,,鱼 羊,false
+就,55,2,jiù,jiù,,,,,亠 口 小 尢 丶,false
+已,55,2,yǐ,yǐ,,,,,已,false
+慢,55,2,màn,màn,,,,,忄 日 罒 又,false
+所,55,2,suǒ,suǒ,,,,,戶 斤,false
+比,55,2,bī;bǐ,bī,,,,,比,true
+网,55,2,wǎng,wǎng,,,,,网,false
+肉,55,2,ròu,ròu,,,,,肉,false
+试,55,2,shì,shì,,,,,讠 弋 工,false
+馆,55,2,guǎn,guǎn,,,,,饣 宀 㠯,false
+净,55,3,jìng,jìng,,,,,冫 ⺈ ⺕ 亅,false
+封,55,3,fēng,fēng,,,,,圭 寸,true
+矿,55,3,kuàng,kuàng,,,,,石 广,false
+码,55,3,mǎ,mǎ,,,,,石 马,false
+碗,55,3,wǎn,wǎn,,,,,石 宀 夕 乚 ㇆,false
+裙,55,3,qún,qún,,,,,衤 ⺕ 丨 口,false
+静,55,3,jìng,jìng,,,,,青 ⺈ ⺕ 亅,false
+舞,57,2,wǔ,wǔ,,,,,舛,false
+色,57,2,sè;shǎi,sè,,,,,色,false
+足,57,2,jù;zú,jù,,,,,足,false
+酒,57,2,jiǔ,jiǔ,,,,,氵 酉,false
+黑,57,2,hēi,hēi,,,,,黑,true
+信,57,3,xìn,xìn,,,,,亻 言,false
+嘴,57,3,zuǐ,zuǐ,,,,,口 止 匕 角,false
+挺,57,3,tǐng,tǐng,,,,,扌 廴 ㇒ 士,false
+而,57,3,ér,ér,,,,,而,false
+行,57,3,háng;xíng,háng,,,,,行,false
+街,57,3,jiē,jiē,,,,,行 圭,false
+角,57,3,jiǎo;jué,jiǎo,,,,,角,true
+解,57,3,jiě;jiè;xiè,jiě,,,,,角 刀 牛,true
+言,57,3,yán,yán,,,,,言,false
+需,57,3,xū,xū,,,,,雨 而,false
+世,58,3,shì,shì,,,,,㇗ 廿,true
+北,58,3,běi,běi,,,,,北,false
+双,58,3,shuāng,shuāng,,,,,双,true
+哭,58,3,kū,kū,,,,,吅 犬,false
+宾,58,3,bīn,bīn,,,,,宀 兵,false
+带,58,3,dài,dài,,,,,川 一 冖 巾,false
+料,58,3,liào,liào,,,,,米 斗,false
+楚,58,3,chǔ,chǔ,,,,,林 疋,true
+概,58,3,gài,gài,,,,,木 丨 彐 乚 丶 旡,false
+澡,58,3,zǎo,zǎo,,,,,氵 品 木,false
+爬,58,3,pá,pá,,,,,爪 丨 乚,false
+片,58,3,piān;piàn,piān,,,,,片,false
+瓜,58,3,guā,guā,,,,,瓜,false
+瓶,58,3,píng,píng,,,,,丷 一 廾 瓦,false
+用,58,3,yòng,yòng,,,,,用,false
+健,60,3,jiàn,jiàn,,,,,亻 廴 聿,false
+容,60,3,róng,róng,,,,,宀 谷,true
+康,60,3,kāng,kāng,,,,,广 隶,true
+瘦,60,3,shòu,shòu,,,,,疒 臼 丨 又,false
+短,60,3,duǎn,duǎn,,,,,矢 豆,false
+羽,60,3,yǔ,yǔ,,,,,羽,false
+被,60,3,bèi,bèi,,,,,衤 皮,false
+鞋,60,3,xié,xié,,,,,革 圭,false
+风,60,3,fēng,fēng,,,,,风,false
+香,60,3,xiāng,xiāng,,,,,香,false

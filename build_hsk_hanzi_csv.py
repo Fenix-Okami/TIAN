@@ -74,25 +74,53 @@ def col_in_names(raw_pinyins: List[str]) -> str:
     return "true" if any(is_name_pinyin(p) for p in raw_pinyins) else "false"
 
 
-def col_components(hanzi: str, decomposer) -> str:
+def get_components(hanzi: str, decomposer) -> List[str]:
     decomposition = decomposer.decompose(hanzi, 2)
     if not isinstance(decomposition, dict):
-        return ""
+        return []
 
     components = decomposition.get("components")
     if components is None:
         components = decomposition.get("radical")
     if not isinstance(components, list):
-        return ""
+        return []
 
     cleaned = [c for c in components if c and c != "No glyph available"]
-    return " ".join(cleaned)
+    return list(dict.fromkeys(cleaned))
+
+
+def load_radical_levels() -> Dict[str, int]:
+    path = OUTPUT_DIR / "radicals_levels_1_3.csv"
+    levels: Dict[str, int] = {}
+    if not path.exists():
+        return levels
+    import csv
+
+    with path.open(encoding="utf-8") as handle:
+        reader = csv.DictReader(handle)
+        for row in reader:
+            radical = row.get("radical", "").strip()
+            try:
+                level = int(row.get("tian_level", ""))
+            except ValueError:
+                continue
+            if radical:
+                levels[radical] = level
+    return levels
+
+
+def tian_level_from_components(components: List[str], radical_levels: Dict[str, int], fallback: int) -> int:
+    if not components:
+        return fallback
+    levels = [radical_levels.get(c) for c in components if radical_levels.get(c) is not None]
+    return max(levels) if levels else fallback
 
 
 def build_hanzi_csv() -> None:
     HanziDecomposer, HanziDictionary = load_hanzipy()
     dictionary = HanziDictionary()
     decomposer = HanziDecomposer()
+    radical_levels = load_radical_levels()
 
     rows: List[Dict[str, object]] = []
     for level in LEVELS:
@@ -100,20 +128,28 @@ def build_hanzi_csv() -> None:
         entries = read_entries(source)
         for hanzi in entries:
             raw_pinyins = lookup_pinyins(hanzi, dictionary)
+            pinyin_str = col_pinyin(raw_pinyins)
+            primary_reading = pinyin_str.split(";")[0] if pinyin_str else ""
+            components_list = get_components(hanzi, decomposer)
+            tian_level = tian_level_from_components(components_list, radical_levels, level)
             rows.append(
                 {
                     "hanzi": col_hanzi(hanzi),
-                    "tian_level": level,
+                    "tian_level": tian_level,
                     "hsk_level": level,
-                    "pinyin": col_pinyin(raw_pinyins),
+                    "pinyin": pinyin_str,
+                    "primary_reading": primary_reading,
                     "simple_meaning": "",
                     "meaning": "",
                     "meaning_mnemonic": "",
                     "reading_mnemonic": "",
-                    "components": col_components(hanzi, decomposer),
+                    "components": " ".join(components_list),
                     "in_names": col_in_names(raw_pinyins),
                 }
             )
+
+    # Confirming existing sort operation
+    rows.sort(key=lambda r: (r["tian_level"], r["hsk_level"], r["hanzi"]))
     write_csv(
         rows,
         [
@@ -121,6 +157,7 @@ def build_hanzi_csv() -> None:
             "tian_level",
             "hsk_level",
             "pinyin",
+            "primary_reading",
             "simple_meaning",
             "meaning",
             "meaning_mnemonic",

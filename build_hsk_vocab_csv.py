@@ -4,6 +4,7 @@ import csv
 import re
 from html import unescape
 from typing import Dict, List, Optional
+from pathlib import Path
 
 from hsk_csv_utils import (
     LEVELS,
@@ -14,6 +15,7 @@ from hsk_csv_utils import (
 )
 
 ANKI_DIR = WORDS_DIR.parent / "Anki xiehanzi"
+HANZI_LEVELS_PATH = OUTPUT_DIR / "hanzi_levels_1_3.csv"
 
 
 def unique_preserve_order(values: List[str]) -> List[str]:
@@ -36,6 +38,23 @@ def parse_meaning(html_text: str) -> str:
     cleaned = [" ".join(strip_tags(unescape(li)).split()) for li in lis if li]
     cleaned = [c for c in cleaned if c]
     return "; ".join(cleaned)
+
+
+def load_hanzi_levels(path: Path = HANZI_LEVELS_PATH) -> Dict[str, int]:
+    levels: Dict[str, int] = {}
+    if not path.exists():
+        return levels
+    with path.open(encoding="utf-8") as handle:
+        reader = csv.DictReader(handle)
+        for row in reader:
+            ch = (row.get("hanzi") or "").strip()
+            try:
+                level = int(row.get("tian_level", ""))
+            except ValueError:
+                continue
+            if ch:
+                levels[ch] = level
+    return levels
 
 
 def parse_simple_meaning(html_text: str) -> str:
@@ -129,16 +148,19 @@ def col_simple_meaning_from_data(word: str, anki_data: Dict[str, Dict[str, objec
 
 def build_vocabulary_csv() -> None:
     anki_data = load_anki_data(LEVELS)
+    hanzi_levels = load_hanzi_levels()
 
     rows: List[Dict[str, object]] = []
     for level in LEVELS:
         source = WORDS_DIR / f"HSK_Level_{level}_words.txt"
         entries = read_entries(source)
         for vocab in entries:
+            char_levels = [hanzi_levels.get(ch) for ch in vocab if hanzi_levels.get(ch) is not None]
+            tian_level = max(char_levels) if char_levels else level
             rows.append(
                 {
                     "vocab": vocab,
-                    "tian_level": level,
+                    "tian_level": tian_level,
                     "hsk_level": level,
                     "pinyin": col_pinyin_from_data(vocab, anki_data),
                     "pinyin_spaced": col_pinyin_spaced(vocab, anki_data),
@@ -150,6 +172,8 @@ def build_vocabulary_csv() -> None:
                     "example_sentences": "",
                 }
             )
+
+    rows.sort(key=lambda r: (r["tian_level"], r["hsk_level"], r["vocab"]))
     write_csv(
         rows,
         [
